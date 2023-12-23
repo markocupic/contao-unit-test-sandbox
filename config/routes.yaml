@@ -1,0 +1,4 @@
+# config/routes.yaml
+markocupic_contao_unit_test_sandbox.controller:
+    resource: ../src/Controller
+    type: annotation
